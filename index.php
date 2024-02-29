@@ -7,4 +7,8 @@
         $triplo = $num1 *3;
         return $triplo;
     }
+    function calcTriplo($num1){
+        $triplo = $num1 *3;
+        return $triplo;
+    }
 ?>
